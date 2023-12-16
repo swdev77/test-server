@@ -1,31 +1,33 @@
-[
-	{
-		"discount": 250000,
-		"price": 500000,
-		"barcode": "9973150582171",
-		"amount": 1000,
-		"vatPercent": 12,
-		"vat": 10000,
-		"name": "Энергетический напиток Red bull Железная банка 0,25 л",
-		"label": "010478010116439421XzmjQbgliy5Xd91UZF092VVFVeDFM9cVd5zuu8avME8HQne9gxKQ8OH5ccczHLAg",
-		"classCode": "02202003001002001",
-		"units": 113015,
-		"commissionTIN": "200523321",
-		"other": 100000,
-		"ownerType": 0
-	},
-	{
-		"discount": 250000,
-		"price": 1000000,
-		"barcode": "9973150582171",
-		"amount": 1000,
-		"vatPercent": 12,
-		"vat": 10000,
-		"name": "Энергетический напиток Flash Апельсиновый, Железная банка 0,25 л",
-		"classCode": "02202003001004001",
-		"units": "310737",
-		"commissionTIN": 200523322,
-		"other": 100000,
-		"ownerType": 1
-	}
-]
+{
+	"products": [
+		{
+			"discount": 250000,
+			"price": 500000,
+			"barcode": "9973150582171",
+			"amount": 1000,
+			"vatPercent": 12,
+			"vat": 10000,
+			"name": "Энергетический напиток Red bull Железная банка 0,25 л",
+			"label": "010478010116439421XzmjQbgliy5Xd91UZF092VVFVeDFM9cVd5zuu8avME8HQne9gxKQ8OH5ccczHLAg",
+			"classCode": "02202003001002001",
+			"units": 113015,
+			"commissionTIN": "200523321",
+			"other": 100000,
+			"ownerType": 0
+		},
+		{
+			"discount": 250000,
+			"price": 1000000,
+			"barcode": "9973150582171",
+			"amount": 1000,
+			"vatPercent": 12,
+			"vat": 10000,
+			"name": "Энергетический напиток Flash Апельсиновый, Железная банка 0,25 л",
+			"classCode": "02202003001004001",
+			"units": "310737",
+			"commissionTIN": 200523322,
+			"other": 100000,
+			"ownerType": 1
+		}
+	]
+}
