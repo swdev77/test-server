@@ -29,5 +29,8 @@
 			"other": 100000,
 			"ownerType": 1
 		}
-	]
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
